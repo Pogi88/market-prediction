@@ -1,0 +1,20 @@
+Stock Prediction Calculator
+
+Description:
+The Stock Prediction Calculator is a web application designed for predicting future stock values. 
+Users can anticipate the value of a stock by entering its current symbol (e.g., AAPL) and value. 
+The application then simulates the projected stock value for the next year, considering a random fluctuation.
+
+Features:
+
+1. Input Fields: Users can input the stock symbol and the current stock value.
+
+2. Prediction: The app calculates the predicted stock value after one year, taking into account a random fluctuation.
+
+How to Use:
+
+1. Write the stock symbol (e.g., SKX) in the "Stock Symbol" input field.
+
+2. Enter the current stock value in dollars into the "Current Stock Value ($)" input field.
+
+3. Click the "Predict" button to see the simulated stock value after one year.
